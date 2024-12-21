@@ -9,7 +9,7 @@
 
 ## Staff UNIVERSE48
 [![Discord Banner 1](https://discord.com/api/guilds/1101473360732491776/widget.png?style=banner3)](https://discord.gg/vfvgFsfHkg)
-<br /><br />
+![Discord Presence](https://discord.c99.nl/widget/theme-2/790926718675451915.png)
 
 
 <h3 align="left">Languages and Tools:</h3>
