@@ -12,7 +12,6 @@
 
 ## Staff UNIVERSE48
 [![Discord Banner 1](https://discord.com/api/guilds/1101473360732491776/widget.png?style=banner3)](https://discord.gg/vfvgFsfHkg) <a/>
-![Discord Presence](https://discord.c99.nl/widget/theme-3/790926718675451915.png)
 
 <a href="https://github.com/mastopa/">
 <img src="https://github-readme-stats.vercel.app/api?username=mastopa&show_icons=true&layout=compact&theme=dark" />
